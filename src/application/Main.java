@@ -36,6 +36,7 @@ public class Main {
 				}
 				
 				System.out.println("Teste");
+				System.out.println("Teste 2 ");
 				
 				
 				votos.add(voto);
