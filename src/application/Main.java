@@ -35,6 +35,7 @@ public class Main {
 					e.printStackTrace();
 				}
 				
+				System.out.println("Teste");
 				
 				
 				votos.add(voto);
